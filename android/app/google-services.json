@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981907517646",
+    "project_id": "talkdream-38f7c",
+    "storage_bucket": "talkdream-38f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981907517646:android:2e8e8567015dcdacb9609f",
+        "android_client_info": {
+          "package_name": "com.talkdream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981907517646-uqmr3lq1r340hm2mg79qns1kuob8dvpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChI7diLhsMxVtAJV_Y41babFfJMkVWg5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981907517646-uqmr3lq1r340hm2mg79qns1kuob8dvpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
