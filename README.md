@@ -32,12 +32,12 @@ Smartphone Version:
 <a href="https://www.javascript.com/"><img src="https://user-images.githubusercontent.com/94801880/152536097-3aed0c74-3fc8-4154-9b8f-155c8988bda3.png" width=90></a>
 <a href="https://styled-components.com/"><img src="https://user-images.githubusercontent.com/94801880/152538254-c2893779-4869-4474-9997-96ad488c6ae7.png" width=90></a>
   
-  ##- disponivel para download em breve
+  ### disponivel para download em breve
   
-  ##para todar em sua maquina:
-  -clone o repositorio: git clone https://github.com/AllBlack-564/TalkDream.git
-  -instale todas a bibliotecas na pasta "Bibliotecas.txt"
-  -tenha a versão mais recente do Android studio
-  -tenha o jdk8 ou jdk11
-  -inicie o projeto (de preferencia com o emulador aberto): npx react-native run-androi
+  ### para todar em sua maquina:
+  - 1 clone o repositorio: git clone https://github.com/AllBlack-564/TalkDream.git
+  - 2 instale todas a bibliotecas na pasta "Bibliotecas.txt"
+  - 3 tenha a versão mais recente do Android studio
+  - 4 tenha o jdk8 ou jdk11
+  - 5 inicie o projeto (de preferencia com o emulador aberto): npx react-native run-androi
   
