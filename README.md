@@ -34,7 +34,7 @@ Smartphone Version:
   
   ### disponivel para download em breve
   
-  ### para todar em sua maquina:
+  ### para rodar em sua maquina:
   - 1 clone o repositorio: git clone https://github.com/AllBlack-564/TalkDream.git
   - 2 instale todas a bibliotecas na pasta "Bibliotecas.txt"
   - 3 tenha a versão mais recente do Android studio
